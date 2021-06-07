@@ -1,0 +1,10 @@
+h1{
+    padding: 10px;
+    /*안쪽 여백의 크기*/
+    background-color: #000;
+    color: #fff
+}
+p{
+    font-family: 궁서;
+    font-size: 18px;
+}
