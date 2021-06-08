@@ -46,7 +46,9 @@ nav{
     text-decoration: none;
     padding: 0 30px
 }
-
+#topmenu li a:hover{
+    color: greenyellow;
+}
 /* 본문 영역 */
 .contents{
     width: 1000px;
@@ -91,7 +93,7 @@ footer{
 #bottommenu li{
     display: inline;
     padding: 5px 20px;
-    border-right: 1px solid blue;
+    border-right: 1px solid gray;
 }
 #bottommenu li:nth-last-child(1){
     border: none;
