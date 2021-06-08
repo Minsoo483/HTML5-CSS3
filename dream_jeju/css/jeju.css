@@ -91,7 +91,10 @@ footer{
 #bottommenu li{
     display: inline;
     padding: 5px 20px;
-    border-right: 1px solid gray;
+    border-right: 1px solid blue;
+}
+#bottommenu li:nth-last-child(1){
+    border: none;
 }
 #bottommenu li a{
     color: black;
